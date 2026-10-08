@@ -1,0 +1,5 @@
+# 실보도 원문 전체는 저작권·내부 대조용이라 올리지 않음 (가상 기사 원문 source-02는 포함)
+output/**/source-*.txt
+!output/2026-10-08/source-02.txt
+.env
+*.env
